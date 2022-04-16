@@ -1,0 +1,70 @@
+.namecolor{
+    color: rgba(0, 0, 0, 0.801);
+}
+
+.bodytitle{
+    color: rgb(40, 119, 165);
+}
+
+.body{
+    color: rgb(171, 206, 226);
+}
+.namefont{
+    font-family: 'Abril Fatface', cursive;
+}
+
+.font2{
+    font-family: 'Rampart One', cursive; 
+}
+.trialfont{
+    font-family: 'Prata', serif;
+}
+
+a:hover {color:rgba(156, 156, 156, 0.801)}
+
+.indent{
+    text-indent: 20px;
+    font-size: 20px
+}
+
+.photography {
+    width: 75%;
+    margin: auto;
+    display: block;
+}
+
+.friendphotos {
+    width: 200px;
+    padding-bottom: 6px;
+}
+
+.aboutmetitlecolor {
+    color: rgb(243, 212, 218);
+}
+
+.aboutmecolor {
+    color: rgb(209, 143, 158);
+}
+
+.white {
+    color: white;
+}
+
+.myphoto{
+    width: 400px;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.tinyfont{
+    padding-top: 5px;
+    font-size: 15px;
+}
+
+.paddingbottom{
+    padding-bottom: 5px;
+}
+
+.backtotop{
+    text-align: center;
+}
