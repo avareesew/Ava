@@ -1,11 +1,9 @@
 .common {
-    /*background-color: whitesmoke;
-    border: solid 2px black ; */
     position: absolute;
 }
 body {
-background-color: #ebdaec;
-font-family:Georgia, 'Times New Roman', Times, serif
+    background-color: #ebdaec;
+    font-family:Georgia, 'Times New Roman', Times, serif
 }
 
 .navigation {
